@@ -1,0 +1,35 @@
+.carouselsale .carousel {
+  height: 2rem;
+}
+.carouselsale .carousel .carousel-inner {
+  height: 2rem;
+}
+.carouselsale .carousel .carousel-inner .carousel-item {
+  height: 2rem;
+}
+.carouselsale .carousel .carousel-inner .carousel-item .container {
+  height: 2rem;
+}
+.carouselsale .carousel .carousel-inner .carousel-item .container .carousel-caption {
+  padding: 0;
+  bottom: -0.75rem;
+}
+
+.section1 div h2 {
+  bottom: 31%;
+}
+.section1 div button {
+  bottom: 17%;
+}
+
+section3 .card {
+  flex-basis: 400px;
+}
+
+section6 .card {
+  flex-basis: 400px;
+}
+
+.drop:hover .dropdown-menu {
+  display: block;
+}/*# sourceMappingURL=style.css.map */

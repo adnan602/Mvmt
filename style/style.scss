@@ -1,0 +1,50 @@
+@import "./_header";
+
+.carouselsale{
+.carousel{
+  height: 2rem;
+  .carousel-inner{
+    height: 2rem;
+    .carousel-item{
+       height: 2rem;
+       .container{
+        height: 2rem;
+        .carousel-caption{
+          padding: 0;
+          bottom: -0.75rem;
+        }
+       }
+    }
+  }
+}
+}
+
+.section1{
+  div{
+    h2{    
+      bottom: 31%;
+    }
+    button{  
+      bottom: 17%;
+    }
+    }
+  }
+
+section3{
+  .card{
+  flex-basis: 400px;
+}
+}
+section6{
+  .card{
+  flex-basis: 400px;
+}
+}
+
+
+
+
+.drop:hover .dropdown-menu{
+  display: block;
+}
+
